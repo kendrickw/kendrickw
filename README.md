@@ -28,5 +28,12 @@ const stack = {
 };
 ```
 
+## 🧩 Open Source & Projects
+
+Check out the public repositories I have been working on:
+
+- [Community Database](https://github.com/luumitech/community-db) – A simple and secure way to track, update, and organize member information.
+
+
 ## 🎖️ **Holopin badges**
 [![An image of @kendrickw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kendrickw)](https://holopin.io/@kendrickw)
