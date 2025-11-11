@@ -2,6 +2,8 @@
 
 Welcome to my digital jungle, where code compiles (most of the time) and coffee is a food group. ☕
 
+Play [Kendrick's Adventure](https://kendrickw.github.io/), my side-scrolling profile page.
+
 ## 🧠 Who am I?
 
 I'm the **Founder** and **Principal Software Architect** of [Luumitech.com](https://luumitech.com) – which is just a fancy way of saying I break things *very strategically* and then pretend I meant to do it.
